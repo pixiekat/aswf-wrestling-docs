@@ -44,5 +44,5 @@ An event and corresponding international tour that happens during the summer, fo
 ### **Total War**
 Happens in the fall (September-November), typically. More hardcore and violent than the usual ASWF events where the laws and rules of civility and ring are disregarded in favour of violent and brutal rivalries. 
 
-### **Night of Champions [Romen Numeral]**
+### **Night of Champions [Roman Numeral]**
 Happens throughout the year at various times, typically either as special episodes of regular television or through separate televised events which are one-off. These are typically free-to-air.
