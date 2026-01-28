@@ -42,7 +42,12 @@ The flagship event of ASWF and the one that is the most revered. This is usually
 An event and corresponding international tour that happens during the summer, following WrestleStorm. The World Bash event will usually have an internationally significant tagline related to the location they're in. The actual event is bookended with a tour for the month when all events and house shows take place around the country World Bash takes place in.
 
 ### **Total War**
-Happens in the fall (September-November), typically. More hardcore and violent than the usual ASWF events where the laws and rules of civility and ring are disregarded in favour of violent and brutal rivalries. 
+Happens in the fall (September-November), typically. More hardcore and violent than the usual ASWF events where the laws and rules of civility and ring are disregarded in favour of violent and brutal rivalries. Specialty match typically takes place called "Total War".
+
+**Rules:**
+- Traditionally a cage match, with special rules.
+- Made up of two or more teams.
+- Teams fight for advantage in the weeks leading up to the match; this determines order.
 
 ### **Night of Champions [Roman Numeral]**
 Happens throughout the year at various times, typically either as special episodes of regular television or through separate televised events which are one-off. These are typically free-to-air.
