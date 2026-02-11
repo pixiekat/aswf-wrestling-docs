@@ -61,7 +61,7 @@ Happens in the fall (September-November), typically. More hardcore and violent t
 laws and rules of civility and ring are disregarded in favour of violent and brutal rivalries. Specialty match
 typically takes place called "Total War".
 
-**Rules:**
+#### Rules
 
 - Traditionally a cage match, with special rules.
 - Made up of two or more teams.
