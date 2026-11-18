@@ -1,7 +1,15 @@
-This is a repository for the documentation, bios, cards, and history of *All Star Wrestling Federation*, my personal
-e-fed for close to twenty years. Currently I'm working on rebirthing it as a game on [Pro Wrestling Sim](https://store.steampowered.com/app/1157700/Pro_Wrestling_Sim/).
-
 # All Star Wrestling Federation: Tradition Rules
+
+> [!NOTE]
+> This is a **long-time** document for the e-fed that I participated in and wrote for back in the early days
+> of RSPWF and AOL.
+>
+> Also included are bios for my own e-wrestlers, stables, and talent as well as some concepts like Agony & Ecstasy,
+> which I developed (mostly) myself.
+>
+> Any similarity to any real life counterpart is strictly coincidental.
+>
+> Currently I'm working on rebirthing it as a game on [Pro Wrestling Sim](https://store.steampowered.com/app/1157700/Pro_Wrestling_Sim/).
 
 *All Star Wrestling Federation* is a hybrid wrestling organisation that aims to strike a balance between "old-school"
 and “new-school”.
